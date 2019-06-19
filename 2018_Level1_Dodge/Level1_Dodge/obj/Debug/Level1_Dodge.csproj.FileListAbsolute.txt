@@ -1,0 +1,9 @@
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\bin\Debug\Level1_Dodge.exe.config
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\bin\Debug\Level1_Dodge.exe
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\bin\Debug\Level1_Dodge.pdb
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.FrmDodge.resources
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.Properties.Resources.resources
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.csproj.GenerateResource.Cache
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.exe
+C:\Users\Lynda\Source\Repos\2018_Level1_Dodge2\Level1_Dodge\obj\Debug\Level1_Dodge.pdb
